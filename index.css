@@ -1,0 +1,21 @@
+body{
+    background-color: whitesmoke;
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+p{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 33px;
+    border: 5px outset gray;
+    display: table;
+    background-color: gray;
+    padding: 3px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
